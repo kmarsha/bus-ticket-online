@@ -1,0 +1,26 @@
+Language = ENG
+NOT Responsive Web Design
+
+--------------------------------------------------
+
+HOW TO LOGIN?
+
+Log-in with User 'Owner'
+Username = "owner1"
+password = "1234"
+
+Log-in with User 'Admin'
+Username = "adm1"
+password = "4321"
+
+Log-in with User 'Passenger', Pleased to...
+Sign-in on tab Project/enter/sign-in.php
+
+--------------------------------------------------
+
+HOW TO RUN THE PROJECT?
+
+Import first file db_project.sql in menu 'import' at phpmyadmin - XAMPP. Then write localhost/Project/ in your web browser. Thank you for try.
+(Import file db_project.sql di menu 'import' dalam phpmyadmin - XAMPP. Lalu tulis localhost/Project/ di web browser Anda. Terima kasih.)
+
+--------------------------------------------------
